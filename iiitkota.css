@@ -1,0 +1,70 @@
+body{
+  background-color: #D1D5FA;
+}
+h1{
+  padding:25px ;
+}
+.class{
+  padding:50px;
+}
+.myDiv{
+  border:5px;
+  background-color:  purple;
+  text-align:center;
+  color:white;
+}
+.foot
+{
+    display: flex;
+
+    height: 100px;
+    justify-content: center;
+    /* padding: 20px;  */
+    margin: 3px 3px;
+
+}
+.foot .box img{
+    height: 40px;
+    padding: 20px;
+    margin: 3px 3px;
+}
+#fut hr{
+    color: white;
+}
+.foots
+{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+.foots ul{
+    display: flex;
+    overflow: hidden;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    color: white;
+
+}
+.foots ul li{
+    overflow: hidden;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    font-size: 20px;
+
+}
+.foots ul li img{
+    height: 25px;
+}
+.foots ul li a{
+    text-decoration: none;
+    color: white;
+}
+#fut .footend{
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    justify-content: center;
+    padding-bottom: 8px;
+}
